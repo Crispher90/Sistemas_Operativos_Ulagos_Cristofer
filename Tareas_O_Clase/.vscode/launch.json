@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Documents/GitHub/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase",
-      "program": "c:/Users/HP/Documents/GitHub/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Documents/GitHub/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase/output",
+      "program": "c:/Users/HP/Documents/GitHub/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
