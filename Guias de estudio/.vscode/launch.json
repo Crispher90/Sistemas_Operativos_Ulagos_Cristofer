@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Sistemas Operativos/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase",
-      "program": "d:/Sistemas Operativos/Sistemas_Operativos_Ulagos_Cristofer/Tareas_O_Clase/build/Debug/outDebug",
+      "cwd": "d:/Sistemas Operativos/Sistemas_Operativos_Ulagos_Cristofer/Guias de estudio",
+      "program": "d:/Sistemas Operativos/Sistemas_Operativos_Ulagos_Cristofer/Guias de estudio/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
